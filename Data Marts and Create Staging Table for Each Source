@@ -1,0 +1,2 @@
+create table billing_summary as 
+select customer_id
